@@ -1,7 +1,7 @@
 {
+  "name": "Troca de Tokens do Daniel",
   "manifest_version": 1,
-  "name": "Token Switcher",
-  "description": "Uma extensão que permite alternar entre tokens com um clique.",
+  "description": "Extensão que permite trocar tokens no Owlbear Rodeo com estilo e poder!",
   "version": "1.0.0",
-  "scripts": ["index.js"]
+  "source": "index.html"
 }
