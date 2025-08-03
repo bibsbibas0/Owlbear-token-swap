@@ -1,6 +1,6 @@
 {
   "id": "swap-token-daniel",
-  "title": "Trocar Token Daniel",
+  "name": "Trocar Token Daniel",
   "description": "Permite trocar a imagem do token com um clique maroto",
   "version": "1.0.0",
   "entry": "index.js",
