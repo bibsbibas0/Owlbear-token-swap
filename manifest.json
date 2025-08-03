@@ -1,6 +1,6 @@
 {
-  "name": "Token Switcher",
   "manifest_version": 1,
+  "name": "Token Switcher",
   "description": "Uma extensão que permite alternar entre tokens com um clique.",
   "version": "1.0.0",
   "scripts": ["index.js"]
