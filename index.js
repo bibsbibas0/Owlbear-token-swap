@@ -1,7 +1,4 @@
-// NÃO usa import!
-// import OBR from "@owlbear-rodeo/sdk";
-
-console.log("Extensão Token Swap ativada!");
+console.log("Token Swap ativada!");
 
 OBR.onReady(() => {
   OBR.contextMenu.create({
@@ -31,12 +28,4 @@ OBR.onReady(() => {
       }
     }
   });
-});
-
-          }
-        }
-      }
-    ]
-  });
-});
 });
