@@ -1,10 +1,7 @@
 {
-  "id": "swap-token-daniel",
-  "name": "Trocar Token Daniel",
-  "description": "Permite trocar a imagem do token com um clique maroto",
+  "name": "Token Switcher",
+  "manifest_version": 1,
+  "description": "Uma extensão que permite alternar entre tokens com um clique.",
   "version": "1.0.0",
-  "entry": "index.js",
-  "type": "ACTION",
-  "author": "Daniel",
-  "minAppVersion": "2.0.0"
+  "scripts": ["index.js"]
 }
