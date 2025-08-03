@@ -1,7 +1,6 @@
 {
   "name": "Token Swap do Daniel",
   "manifest_version": 1,
-  "description": "Extensão que troca tokens no Owlbear!",
-  "version": "1.0.0",
-  "entry": "https://owbear-token-swap.replit.app"
+  "description": "Troca tokens com clique",
+  "version": "1.0.0"
 }
