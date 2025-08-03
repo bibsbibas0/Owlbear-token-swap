@@ -1,7 +1,7 @@
 {
-  "name": "Troca de Tokens do Daniel",
+  "name": "Token Swap do Daniel",
   "manifest_version": 1,
-  "description": "Extensão que permite trocar tokens no Owlbear Rodeo com estilo e poder!",
+  "description": "Extensão que troca tokens no Owlbear!",
   "version": "1.0.0",
-  "source": "index.html"
+  "entry": "https://owbear-token-swap.replit.app"
 }
