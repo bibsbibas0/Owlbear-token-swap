@@ -2,5 +2,10 @@
   "name": "Token Swap do Daniel",
   "manifest_version": 1,
   "description": "Troca tokens com clique",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "entrypoint": "index.js",
+  "permissions": [
+    "CONTEXT_MENU",
+    "ITEMS"
+  ]
 }
