@@ -1,11 +1,12 @@
 {
   "name": "Token Swap do Daniel",
   "manifest_version": 1,
-  "description": "Troca tokens com clique",
   "version": "1.0.0",
+  "description": "Um plugin para trocar tokens com um clique",
   "permissions": [
     {
       "context": ["selection"]
     }
-  ]
+  ],
+  "entry": "index.js"
 }
